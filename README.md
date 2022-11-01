@@ -1,5 +1,6 @@
-# moviesapp-ci-2021
+# Web App Dev 2: Movie App Labs
 
+Practical labs for the WAD2 module, BSc. Applied Computing.
 
 
 ## Getting started
